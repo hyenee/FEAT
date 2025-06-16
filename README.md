@@ -19,10 +19,12 @@ These resources support research on learning‑to‑rank, preference learning, a
 * **Simple JSON** format & clean train/test splits for painless loading.
 
 
-> **🚧 Note — DIRECT-M availability:**  
-> DIRECT-M files will be released in a forthcoming update (coming soon).  
-
-
+> **📢 Note — DIRECT‑Manual (DIRECT-M):**
+> 
+> The **DIRECT‑M** is hosted in a separate repository:
+> 
+> **[https://github.com/DIRECTDataset/DIRECTManual](https://github.com/DIRECTDataset/DIRECTManual)**.
+>
 ---
 
 ## 📦 Repository Structure
@@ -40,7 +42,7 @@ datasets/
 │       ├── train.criteria_5.json
 │       ├── test.criteria_2.json
 │       └── test.criteria_5.json
-└── DIRECT-M/   ← (coming soon)
+└── DIRECT-M/   ← see: https://github.com/DIRECTDataset/DIRECTManual
 
 ```
 
